@@ -19,7 +19,9 @@
 * https://github.com/chenhb23/lanzouyun-disk
 # Clash for Windows
 * Clash for Windows是一款桌面端的网络代理工具 汉化教程：https://opclash.com/fenxiang/204.html
+### 此版本为Clash for Windows原版汉化页面。
 * https://github.com/Fndroid/clash_for_windows_pkg
+* # 
 * https://github.com/BoyceLig/Clash_Chinese_Patch
 * https://github.com/Dreamacro/clash
 * https://github.com/jnlaoshu/MySelf
