@@ -31,10 +31,6 @@
 # ClashForAndroid
 * https://github.com/Kr328/ClashForAndroid
 
-* Clash、Stash、Surge、Loon、Quanx、Egern、Shadowrocket等自用配置：https://github.com/jnlaoshu/MySelf
-# Surge
-* https://github.com/Rabbit-Spec/Surge
-
 # QBittorrent
 * 设置教程：https://www.bilibili.com/video/BV1kG4y1Q7A4/?vd_source=03f506a120c59a401554cb1104c9ee31 ；公共 Tracker 列表合集：https://trackerslist.com/#/zh；
 * https://github.com/c0re100/qBittorrent-Enhanced-Edition
@@ -79,8 +75,9 @@
 1. 彩色密码：https://github.com/Rookiestyle/ColoredPassword
 * ColoredPassword 允许您在显示密码时对普通字母、数字和特殊字符使用不同的颜色。该插件处理密码字段，还可以在条目列表中为密码着色。它的主要用例是用于自动键入/复制不起作用的情况。
 
-# Quantumult X ｜Surge 教程
-* Quantumult X小白系列教程｜导入订阅链接、添加自己搭建的节点，开始使用
+# Quantumult X｜Surge|Clash|Stash||Loon｜Egern｜Shadowrocket｜小白系列教程
+ 
+* https://github.com/jnlaoshu/MySelftumult X
 * erdongchanyo 收集整理觉得还行的一些规则：https://github.com/erdongchanyo/Rules
 * kjfx Quantumult X 新手入门教程：https://github.com/kjfx/QuantumultX
 * ddgksf2013 分流规则、重写写规则及脚本：https://github.com/blackmatrix7/ios_rule_script
