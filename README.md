@@ -78,4 +78,14 @@
 # KeePass插件
 1. 彩色密码：https://github.com/Rookiestyle/ColoredPassword
 * ColoredPassword 允许您在显示密码时对普通字母、数字和特殊字符使用不同的颜色。该插件处理密码字段，还可以在条目列表中为密码着色。它的主要用例是用于自动键入/复制不起作用的情况。
-2. 
+
+# Quantumult X ｜Surge 教程
+* Quantumult X小白系列教程｜导入订阅链接、添加自己搭建的节点，开始使用
+* erdongchanyo 收集整理觉得还行的一些规则：https://github.com/erdongchanyo/Rules
+* kjfx Quantumult X 新手入门教程：https://github.com/kjfx/QuantumultX
+* ddgksf2013 分流规则、重写写规则及脚本：https://github.com/blackmatrix7/ios_rule_script
+* app2smile iOS App去广告：https://github.com/app2smile/rules
+* blackmatrix7 分流规则、重写写规则及脚本：https://github.com/blackmatrix7/ios_rule_script
+* Rabbit-Spec  Surge自用配置以及模块和脚本： https://github.com/Rabbit-Spec/Surge
+* evilbutcher / QuantumultX    瞎写的QuantumultX的代码：https://github.com/evilbutcher/QuantumultX
+* deezertidal / Surge_Module     Surge模块：https://github.com/deezertidal/Surge_Module
