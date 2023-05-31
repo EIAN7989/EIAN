@@ -34,3 +34,13 @@
 * Clash、Stash、Surge、Loon、Quanx、Egern、Shadowrocket等自用配置：https://github.com/jnlaoshu/MySelf
 # Surge
 * https://github.com/Rabbit-Spec/Surge
+
+# QBittorrent
+* 设置教程：https://www.bilibili.com/video/BV1kG4y1Q7A4/?vd_source=03f506a120c59a401554cb1104c9ee31 ；公共 Tracker 列表合集：https://trackerslist.com/#/zh；
+* https://github.com/c0re100/qBittorrent-Enhanced-Edition
+* https://github.com/qbittorrent/qBittorrent
+
+# QQScreenShot QQ截图独立提取版
+* https://github.com/insoxin/QQScreenShot
+
+#
