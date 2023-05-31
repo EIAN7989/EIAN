@@ -22,11 +22,10 @@
 * 此版本为Clash for Windows原版汉化页面。https://github.com/Fndroid/clash_for_windows_pkg
 * 仓库地址：https://github.com/BoyceLig/Clash_Chinese_Patch
 * 此版本为Clash for Windows原版汉化页面https://github.com/Dreamacro/clash
-* https://github.com/jnlaoshu/MySelf
 * https://github.com/Rabbit-Spec/Surge
 # ClashForAndroid
 * https://github.com/Kr328/ClashForAndroid
-
-
+# Clash、Stash、Surge、Loon、Quanx、Egern、Shadowrocket等自用配置。网上搜集，仅供参考！感谢大佬们的无私分享！
+* https://github.com/jnlaoshu/MySelf
 
 
