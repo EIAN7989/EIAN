@@ -43,4 +43,27 @@
 # QQScreenShot QQ截图独立提取版
 * https://github.com/insoxin/QQScreenShot
 
-#
+# TrollStore
+* 巨魔商店Trollstore 是一个永久签名的监狱应用程序，可以永久安装您在其中打开的 任何IPA文件
+* https://github.com/opa334/TrollStore
+
+# Lively Wallpaper 动态壁纸
+* Lively Wallpaper 是一款免费开源的 Windows 动态壁纸软件，它可以让你将电脑桌面设置为动态的背景，软件内置的几款非常好用的壁纸，有雨滴效果、视差滚动、鼠标跟随、视频壁纸等几种不同风格，而且支持自定义设置，如果觉得自带的壁纸不够用，你还可以手动添加视频、网页以及他人分享的壁纸资源，让你更加快捷地设置
+* https://github.com/rocksdanister/lively
+
+# Calibre 电子书管理软件
+* Calibre 是一款开源免费的电子书阅读器，集看小说、制作、格式转换于一体，拥有图书管理、同步阅读等功能，非常人性化，使用也比较简便，是不错的一站式电子书管理工具。跨平台设计，支持多个基于不同系统的便携式移动设备，阅读书籍的同时还可以进行编辑及格式转换。
+* https://github.com/kovidgoyal/calibre
+
+# TrafficMonitor 
+* Traffic Monitor是一款用于Windows平台的网速监控悬浮窗软件，可以显示当前网速、CPU及内存利用率，支持嵌入到任务栏显示，支持更换皮肤、历史流量统计等功能。
+* https://github.com/zhongyang219/TrafficMonitor
+* 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
+
+# QuickLook
+* 这是一款在PC端按空格键就可以快速预览文件的应用
+* https://github.com/QL-Win/QuickLook
+
+
+
+
