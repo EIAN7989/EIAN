@@ -77,7 +77,7 @@
 
 # Quantumult X｜Surge|Clash|Stash||Loon｜Egern｜Shadowrocket｜小白系列教程
  
-* https://github.com/jnlaoshu/MySelftumultX
+* https://github.com/jnlaoshu/MySelfQuantumultX
 * erdongchanyo 收集整理觉得还行的一些规则：https://github.com/erdongchanyo/Rules
 * kjfx Quantumult X 新手入门教程：https://github.com/kjfx/QuantumultX
 * ddgksf2013 分流规则、重写写规则及脚本：https://github.com/blackmatrix7/ios_rule_script
