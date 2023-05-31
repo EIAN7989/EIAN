@@ -64,6 +64,18 @@
 * 这是一款在PC端按空格键就可以快速预览文件的应用
 * https://github.com/QL-Win/QuickLook
 
+# Watt Toolkit 🧰 (原名 Steam++)
+* 「Watt Toolkit」是一个开源跨平台的多功能游戏工具箱，此工具的大部分功能都是需要您下载安装 Steam 才能使用。
+* Watt Toolkit 是由长沙次元超越科技有限公司开发与维护的 (GNU) 自由开源软件， 采用 GPL v3 开源协议同时发布于 Github 及 Gitee。
+* https://github.com/BeyondDimension/SteamTools
 
+# 阿里云盘 WebDAV 服务
+* https://github.com/messense/aliyundrive-webdav
 
+# iOS 提醒事项同步到日历
+* https://github.com/zackertypical/ios_script
 
+# KeePass插件
+1. 彩色密码：https://github.com/Rookiestyle/ColoredPassword
+* ColoredPassword 允许您在显示密码时对普通字母、数字和特殊字符使用不同的颜色。该插件处理密码字段，还可以在条目列表中为密码着色。它的主要用例是用于自动键入/复制不起作用的情况。
+2. 
